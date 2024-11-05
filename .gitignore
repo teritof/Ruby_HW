@@ -9,6 +9,10 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+.idea/
+Gemfile
+Gemfile.lock
+
 
 # Used by dotenv library to load environment variables.
 # .env
